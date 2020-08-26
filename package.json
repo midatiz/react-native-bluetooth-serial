@@ -18,7 +18,7 @@
 	"homepage": "https://github.com/midatiz/react-native-bluetooth-serial#readme",
 	"peerDependencies": {
 		"react": "^16.8.1",
-		"react-native": ">=0.60.0-rc.0 <1.0.x"
+		"react-native": ">=0.62.0 <1.0.x"
 	},
 	"devDependencies": {
 		"react": "^16.9.0",
